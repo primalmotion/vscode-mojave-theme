@@ -1,0 +1,32 @@
+{
+    "name": "mojave",
+    "displayName": "mojave",
+    "description": "Dark theme inspired from macOS mojave",
+    "icon": "assets/icon.png",
+    "files": [],
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/primalmotion/vscode-mojave-theme"
+    },
+    "publisher": "primalmotion",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "mojave"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mojave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    }
+}
