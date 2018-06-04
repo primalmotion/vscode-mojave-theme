@@ -208,7 +208,7 @@
 
         "textPreformat.foreground": "#d9d7ce",
 
-        "titleBar.activeBackground": "#34383b",
+        "titleBar.activeBackground": "#ffffff08",
         "titleBar.activeForeground": "#f3f3f3",
         "titleBar.border": "#ffffff08",
         "titleBar.inactiveBackground": "#34383b",
