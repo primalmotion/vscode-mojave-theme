@@ -122,8 +122,8 @@
         "list.inactiveSelectionBackground": "#ffffff08",
         "list.inactiveSelectionForeground": "#d9d7ce",
 
-        "panel.background": "#1c1d20",
-        "panel.border": "#ffffff08",
+        "panel.background": "#25252a",
+        "panel.border": "#1c1d20",
 
         "panelTitle.activeBorder": "#25252a",
         "panelTitle.activeForeground": "#67b0fa",
@@ -162,8 +162,8 @@
         "sideBarTitle.foreground": "#67b0fa99",
 
         "statusBar.background": "#25252a",
-        "statusBar.border": "#ffffff08",
-        "statusBar.debuggingBackground": "#2d3644",
+        "statusBar.border": "#1c1d20",
+        "statusBar.debuggingBackground": "#67b0fa",
         "statusBar.debuggingForeground": "#7f8084",
         "statusBar.foreground": "#7f8084",
         "statusBar.noFolderBackground": "#25252a",
@@ -198,7 +198,7 @@
         "terminal.ansiRed": "#f07178",
         "terminal.ansiWhite": "#c7c7c7",
         "terminal.ansiYellow": "#67b0fa",
-        "terminal.background": "#1c1d20",
+        "terminal.background": "#25252a",
         "terminal.foreground": "#d9d7ce",
 
         "textBlockQuote.background": "#2d3644",
