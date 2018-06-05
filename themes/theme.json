@@ -85,7 +85,7 @@
         "editorSuggestWidget.highlightForeground": "#67b0fa",
         "editorSuggestWidget.selectedBackground": "#ffffff03",
 
-        "editorWarning.foreground": "#67b0fa",
+        "editorWarning.foreground": "#FFAE57",
 
         "editorWhitespace.foreground": "#3d4752",
 
@@ -110,7 +110,7 @@
         "inputValidation.infoBackground": "#25252a",
         "inputValidation.infoBorder": "#67b0fa",
         "inputValidation.warningBackground": "#25252a",
-        "inputValidation.warningBorder": "#67b0fa",
+        "inputValidation.warningBorder": "#FFAE57",
 
         "list.activeSelectionBackground": "#ffffff08",
         "list.activeSelectionForeground": "#d9d7ce",
@@ -640,7 +640,7 @@
             "name": "SublimeLinter Warning",
             "scope": "sublimelinter.mark.warning",
             "settings": {
-                "foreground": "#67b0fa"
+                "foreground": "#FFAE57"
             }
         },
         {
