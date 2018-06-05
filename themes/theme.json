@@ -60,7 +60,7 @@
 
         "editorGroupHeader.noTabsBackground": "#1c1d20",
         "editorGroupHeader.tabsBackground": "#1c1d20",
-        "editorGroupHeader.tabsBorder": "#ffffff08",
+        "editorGroupHeader.tabsBorder": "#25252a",
 
         "editorGutter.addedBackground": "#bae67e",
         "editorGutter.deletedBackground": "#ff3333",
@@ -175,8 +175,8 @@
 
         "tab.activeBackground": "#25252a",
         "tab.activeForeground": "#67b0fa",
-        "tab.border": "#ffffff08",
-        "tab.inactiveBackground": "#25252a",
+        "tab.border": "#ffffff00",
+        "tab.inactiveBackground": "#ffffff00",
         "tab.inactiveForeground": "#7f8084",
         "tab.unfocusedActiveForeground": "#d9d7ceaa",
         "tab.unfocusedInactiveForeground": "#7f8084",
