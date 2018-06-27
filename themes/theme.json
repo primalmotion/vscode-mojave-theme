@@ -85,7 +85,7 @@
         "editorSuggestWidget.highlightForeground": "#67b0fa",
         "editorSuggestWidget.selectedBackground": "#ffffff03",
 
-        "editorWarning.foreground": "#FFAE57",
+        "editorWarning.foreground": "#ffae57",
 
         "editorWhitespace.foreground": "#3d4752",
 
@@ -97,6 +97,9 @@
         "extensionButton.prominentHoverBackground": "#67b0fabb",
 
         "gitDecoration.ignoredResourceForeground": "#7f808477",
+        "gitDecoration.modifiedResourceForeground": "#67b0fa",
+        "gitDecoration.deletedResourceForeground": "#ff3333",
+        "gitDecoration.untrackedResourceForeground": "#bae67e",
 
         "input.background": "#ffffff03",
         "input.border": "#ffffff08",
@@ -110,7 +113,7 @@
         "inputValidation.infoBackground": "#25252a",
         "inputValidation.infoBorder": "#67b0fa",
         "inputValidation.warningBackground": "#25252a",
-        "inputValidation.warningBorder": "#FFAE57",
+        "inputValidation.warningBorder": "#ffae57",
 
         "list.activeSelectionBackground": "#ffffff08",
         "list.activeSelectionForeground": "#d9d7ce",
@@ -121,6 +124,8 @@
         "list.hoverForeground": "#d9d7ce",
         "list.inactiveSelectionBackground": "#ffffff08",
         "list.inactiveSelectionForeground": "#d9d7ce",
+        "list.errorForeground": "#ff3333",
+        "list.warningForeground": "#ffae57",
 
         "panel.background": "#25252a",
         "panel.border": "#1c1d20",
@@ -237,7 +242,7 @@
             "name": "Keyword, Storage",
             "scope": "keyword, storage.type, storage.modifier",
             "settings": {
-                "foreground": "#FFAE57"
+                "foreground": "#ffae57"
             }
         },
         {
@@ -336,7 +341,7 @@
             "name": "Attributes",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#FFAE57"
+                "foreground": "#ffae57"
             }
         },
         {
@@ -357,7 +362,7 @@
             "name": "Changed",
             "scope": "markup.changed",
             "settings": {
-                "foreground": "#FFAE57"
+                "foreground": "#ffae57"
             }
         },
         {
@@ -461,7 +466,7 @@
             "name": "Markup - Raw Block",
             "scope": "markup.fenced_code.block.markdown",
             "settings": {
-                "foreground": "#FFAE57"
+                "foreground": "#ffae57"
             }
         },
         {
@@ -640,7 +645,7 @@
             "name": "SublimeLinter Warning",
             "scope": "sublimelinter.mark.warning",
             "settings": {
-                "foreground": "#FFAE57"
+                "foreground": "#ffae57"
             }
         },
         {
