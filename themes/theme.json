@@ -55,7 +55,7 @@
 
         "editorError.foreground": "#ff3333",
 
-        "editorGroup.background": "#2d3644",
+        "editorGroup.emptyBackground": "#2d3644",
         "editorGroup.border": "#ffffff08",
 
         "editorGroupHeader.noTabsBackground": "#1c1d20",
@@ -83,7 +83,7 @@
         "editorSuggestWidget.background": "#1c1d20",
         "editorSuggestWidget.border": "#ffffff08",
         "editorSuggestWidget.highlightForeground": "#67b0fa",
-        "editorSuggestWidget.selectedBackground": "#ffffff03",
+        "editorSuggestWidget.selectedBackground": "#ffffff10",
 
         "editorWarning.foreground": "#ffae57",
 
