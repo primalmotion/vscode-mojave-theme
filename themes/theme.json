@@ -55,7 +55,7 @@
 
         "editorError.foreground": "#ff3333",
 
-        "editorGroup.emptyBackground": "#2d3644",
+        "editorGroup.emptyBackground": "#25252a",
         "editorGroup.border": "#ffffff08",
 
         "editorGroupHeader.noTabsBackground": "#1c1d20",
