@@ -60,7 +60,7 @@
 
         "editorGroupHeader.noTabsBackground": "#1c1d20",
         "editorGroupHeader.tabsBackground": "#1c1d20",
-        "editorGroupHeader.tabsBorder": "#25252a",
+        "editorGroupHeader.tabsBorder": "#ffffff08",
 
         "editorGutter.addedBackground": "#bae67e",
         "editorGutter.deletedBackground": "#ff3333",
@@ -169,7 +169,7 @@
         "statusBar.background": "#25252a",
         "statusBar.border": "#1c1d20",
         "statusBar.debuggingBackground": "#67b0fa",
-        "statusBar.debuggingForeground": "#7f8084",
+        "statusBar.debuggingForeground": "#ffffff",
         "statusBar.foreground": "#7f8084",
         "statusBar.noFolderBackground": "#25252a",
 
